@@ -9,4 +9,3 @@ data/
 *.parquet
 *.zip
 
-notebooks/*.ipynb
